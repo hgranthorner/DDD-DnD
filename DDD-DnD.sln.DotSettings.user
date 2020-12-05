@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/grant/Library/Caches/JetBrains/Rider2020.3/resharper-host/temp/Rider/vAny/CoverageData/_DDD-DnD.483692155/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cbc618f_002D7162_002D4c9a_002Da190_002Da4232751d180/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AbilityModifierIsCalculatedCorrectly #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5D466050-83DC-4341-87B7-CF974FCEBD2E::net5.0::Tests.AbilityTests.AbilityModifierIsCalculatedCorrectly&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b04c929d_002D8b31_002D483f_002Dafd2_002Dcfab06a29a0d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AbilityModifierIsCalculatedCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5D466050-83DC-4341-87B7-CF974FCEBD2E::net5.0::Tests.AbilityTests.AbilityModifierIsCalculatedCorrectly&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
